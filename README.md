@@ -1,0 +1,1 @@
+This project is an implementation of Faster CNN on BCCD Dataset of bloodcells. We need to detect wheter the cells in a picture are RBCs WBCs or Platelets. I used tensorflow object detection api for this.
