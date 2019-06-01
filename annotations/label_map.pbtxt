@@ -1,17 +1,17 @@
 item
 {
 	id: 1
-	name : RBC
+	name : 'rbc'
 
 }
 
 item
 {
 	id:2
-	name : WBC
+	name : 'wbc'
 }
 item
 {
 	id:3
-	name : Platelets
+	name : 'Platelets'
 }
